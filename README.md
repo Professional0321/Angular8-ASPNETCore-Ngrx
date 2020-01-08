@@ -29,13 +29,6 @@ You can see an Angular Demo with all the techniques combined here (running on Az
 
 [https://conference-xplatform-server.azurewebsites.net](https://conference-xplatform-server.azurewebsites.net/)
 
-## Author
-
-👤 **Fabian Gosebrink**
-
-- Twitter: [@FabianGosebrink](https://twitter.com/FabianGosebrink)
-- Github: [@FabianGosebrink](https://github.com/FabianGosebrink)
-
 ## Prerequisites
 
 - [Android SDK](https://developer.android.com/sdk/index.html)
